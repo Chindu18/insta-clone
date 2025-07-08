@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "avatar": "./avatars/jane.jpeg",
+      "image": "/posts/post1.jpeg",
+      "caption": "Enjoying the sunshine ☀️",
+      "likes": 120,
+      "timestamp": "2025-07-05T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "username": "jane_gram",
+      "avatar": "/avatars/john.jpeg",
+      "image": "/posts/post2.jpeg",
+      "caption": "Weekend vibes 💃🏽",
+      "likes": 95,
+      "timestamp": "2025-07-04T18:45:00Z"
+    },
+    {
+      "id": 3,
+      "username": "travel_guy",
+      "avatar": "/avatars/travel.jpeg",
+      "image": "/posts/post3.jpeg",
+      "caption": "Trekking in the hills 🏔️",
+      "likes": 212,
+      "timestamp": "2025-07-03T14:15:00Z"
+    }
+  ]
+}
