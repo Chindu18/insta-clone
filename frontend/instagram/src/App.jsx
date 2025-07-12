@@ -1,6 +1,7 @@
 import React from 'react'
 import Sidebar from './sidebar'
 import Post from './Post'
+import Profile from './profile'
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       
        <div className='w-20'><Sidebar/></div> 
        <div className='w-50'><Post /></div>
-       <div className='w-30 bg-secondary'>message</div>
+       <div className='w-30'><Profile/></div>
     </div>
     
     </>

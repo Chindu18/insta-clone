@@ -27,5 +27,14 @@
       "likes": 212,
       "timestamp": "2025-07-03T14:15:00Z"
     }
-  ]
+  ],
+  "profile": [{
+    "username": "john_doe",
+    "avatar": "/avatars/john.jpeg",
+    "bio": "Adventure seeker | Food lover | Photographer",
+    "followers": 1500,
+    "following": 300,
+    "postsCount": 45
+  }
+]
 }

@@ -23,3 +23,12 @@ height: 30px;
   width: 410px;
   height: 403px;
 }
+.links a{
+  color: var(--bs-secondary);
+  text-decoration: none;
+  font-size: 12px; 
+  
+}
+.links a:hover{
+  text-decoration: underline;
+}

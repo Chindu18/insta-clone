@@ -30,12 +30,12 @@ function Posts() {
           <div className='mb-1'>
                <div className='d-flex justify-content-between'>
                   <div className='d-flex gap-2'>
-                    <i class="bi bi-heart"></i>
-                    <i class="bi bi-chat"></i>
-                    <i class="bi bi-send"></i>
+                    <i className="bi bi-heart"></i>
+                    <i className="bi bi-chat"></i>
+                    <i className="bi bi-send"></i>
                   </div>
                   <div>
-                  <i class="bi bi-bookmark"></i>
+                  <i className="bi bi-bookmark"></i>
                   </div>
                </div>
 
